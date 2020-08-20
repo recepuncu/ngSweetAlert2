@@ -2,7 +2,7 @@
 
 AngularJS wrapper for [SweetAlert2](https://sweetalert2.js.org/). Sweet Alert is a beautiful replacement for Javascript's "Alert".
 
-## Usage Example
+## Usage
 ```sh
 SweetAlert2.fire({
   title: 'Are you sure?',
