@@ -12,7 +12,7 @@
 }(this, function (angular, swal) {
     "use strict";
 
-    angular.module('rec.ngSweetAlert2', [])
+    angular.module('recepuncu.ngSweetAlert2', [])
         .factory('SweetAlert2', ['$rootScope', '$q',
             function ($rootScope, $q) {
                 return {
