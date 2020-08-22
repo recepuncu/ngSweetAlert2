@@ -1,5 +1,5 @@
 {
-	"name": "ngSweetAlert2",
+	"name": "angularjs-sweetalert2",
 	"version": "1.0.0",
 	"main": "./SweetAlert2.js",
 	"author": "recepuncu@gmail.com",
