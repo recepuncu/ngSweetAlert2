@@ -34,7 +34,7 @@ SweetAlert2.fire({
 ## Install
 1. download the files
 	1. Bower
-		1. add `"angular-sweetalert2": "latest"` to your `bower.json` file then run `bower install` OR run `bower install angular-sweetalert2`
+		1. add `"angularjs-sweetalert2": "latest"` to your `bower.json` file then run `bower install` OR run `bower install angularjs-sweetalert2`
 2. include the files in your app
 	1. `SweetAlert2.min.js`
 	2. `sweetalert2.min.js"`
