@@ -24,7 +24,7 @@
                                 deferred.resolve(opened);
                             }
                             else if (typeof args1 === 'string' && typeof args2 === 'string' && typeof args3 === 'string') {
-                                let opened = Swal.fire(args1, args1, args3);
+                                let opened = Swal.fire(args1, args2, args3);
                                 deferred.resolve(opened);
                             }
                         });
