@@ -7,11 +7,8 @@ AngularJS wrapper for [SweetAlert2](https://sweetalert2.js.org/). Sweet Alert is
 SweetAlert2.fire({
   title: 'Are you sure?',
   text: "You won't be able to revert this!",
-  icon: 'warning',
-  showCancelButton: true,
-  confirmButtonColor: '#3085d6',
-  cancelButtonColor: '#d33',
-  confirmButtonText: 'Yes, delete it!'
+  icon: 'warning',   
+  buttons: [true, 'Yes, delete it!']
 }).then((result) => {
   if (result.value) {
     SweetAlert2.fire(
